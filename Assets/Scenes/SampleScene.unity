@@ -453,7 +453,7 @@ MonoBehaviour:
   - {fileID: 35867561}
   - {fileID: 991129633}
   - {fileID: 1673868192}
-  _enemy: {fileID: 6753716629219240073, guid: 997acbaa016d1ed42a4e9e170c1f840b, type: 3}
+  _enemy: {fileID: 2715879700151824718, guid: 997acbaa016d1ed42a4e9e170c1f840b, type: 3}
   _spawnDelay: 2
 --- !u!4 &873467980
 Transform:
